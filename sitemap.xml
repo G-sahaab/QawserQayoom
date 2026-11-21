@@ -1,9 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://qawserqayoom.cv/</loc>
-    <lastmod>2026-11-16</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://qawserqayoom.cv/assets/banners/banner3.png</image:loc>
+      <image:title>Qawser Qayoom - Store Manager (Lead Operations) at Mir Electronics</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://qawserqayoom.cv/photos/qawser-qayoom-store-manager.jpg</image:loc>
+      <image:title>Qawser Qayoom - Store Manager (Lead Operations)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://qawserqayoom.cv/photos/qawser-qayoom-retail-operations.jpg</image:loc>
+      <image:title>Qawser Qayoom - Retail Operations and B2B Advisory</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://qawserqayoom.cv/photos/qawser-qayoom-mir-electronics.jpg</image:loc>
+      <image:title>Qawser Qayoom - Mir Electronics Showroom Leadership</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://qawserqayoom.cv/photos/qawser-qayoom-portrait.jpg</image:loc>
+      <image:title>Qawser Qayoom - Executive Studio Portrait</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://qawserqayoom.cv/cv/Qawser_Qayoom_CV_1_Retail_Store_Management.pdf</loc>
